@@ -143,3 +143,4 @@ app.use("/api/typeCourses", typeCourseRoute);
 server.listen(process.env.PORT || 2412, () => {
   console.log("Backend server is running!");
 });
+
